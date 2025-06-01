@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 - 🌱 I’m currently learning **UI/UX, Web application**
 
-- 👯 I’m looking to collaborate on **Mobile and web application**
+- 👯 I’m looking to collaborate on **Frontend**
 
-- 💬 Ask me about **Android, Web application**
+- 💬 Ask me about **Full stack developer**
 
 - 📫 How to reach me **christophervalenzuela415@gmail.com**
 
